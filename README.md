@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <p>
   <img alt="AngularJs" src="https://img.shields.io/badge/AngularJs-%23c4140e?style=flat-square&logo=%230F0F11&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt = "Spring Boot" src = "https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 </p>
 
 ###### Database
@@ -70,13 +71,13 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img height=200 align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=IshitaApan&layout=compact&langs_count=8&theme=gruvbox" width="50%"/>
+  <img height=200 align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=IshitaApan&layout=compact&langs_count=8&theme=gruvbox" width="55%"/>
 </p>
 
 ---
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IshitaApan&hide_border=false&theme=gruvbox" width="55%" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IshitaApan&hide_border=false&theme=gruvbox" width="60%" />
 </p>
 
 <h2 align="center"><b>Happy Coding !!!</b></h2>
