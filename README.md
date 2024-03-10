@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Stuffs About Me
-- 🔭 <b>Currently working on:</b> AngularJs, .NET
+- 🔭 <b>Currently working on:</b> AngularJs, ASP.NET Core
 
 ---
 
