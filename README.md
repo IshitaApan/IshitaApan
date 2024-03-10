@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Ishita Sur Apan, currently working as a Software Engineer at Streams Tech Ltd.
 
-[![Gmail](https://img.shields.io/badge/Send%20Mail-EA4335?style=flat&logo=gmail&labelColor=white
-)](mailto:ishitasurapan@gmail.com)
+[![Gmail](https://img.shields.io/badge/Send%20Mail-EA4335?style=flat&logo=gmail&labelColor=white)](mailto:ishitasurapan@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishita-sur-apan-0b2246147/)
 
 <!--
@@ -25,7 +24,22 @@ Here are some ideas to get you started:
 ### Stuffs About Me
 - 🔭 <b>Currently working on:</b> AngularJs, .NET
 
-### My Stacks
+---
+
+<h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
+
+###### Languages
+
+<p>
+   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=c&logoColor=white" />
+   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white" />
+   <img alt="C#" src="https://img.shields.io/badge/C%23%20-512BD4.svg?&style=flat-square&logo=csharp&logoColor=white" />
+   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" />
+   <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
+   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+</p>
 
 
 <p align="center">
