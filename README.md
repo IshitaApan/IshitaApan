@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Stuffs About Me
-- 🔭 <b>Currently working on:</b> AngularJs, ASP.NET Core
+- 🔭 <b>Currently working on:</b> Angular, ASP.NET Core
 
 ---
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ###### Frameworks/Libraries
 
 <p>
-  <img alt="AngularJs" src="https://img.shields.io/badge/AngularJs-%23c4140e?style=flat-square&logo=%230F0F11&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/AngularJs-%23c4140e?style=flat-square&logo=%230F0F11&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt = "Spring Boot" src = "https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 </p>
