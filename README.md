@@ -31,34 +31,32 @@ Here are some ideas to get you started:
 ###### Languages
 
 <p>
-   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=c&logoColor=white" />
-   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white" />
    <img alt="C#" src="https://img.shields.io/badge/C%23%20-512BD4.svg?&style=flat-square&logo=csharp&logoColor=white" />
    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white" />
+   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=c&logoColor=white" />
+   <img alt="Octave" src="https://img.shields.io/badge/Octave-0790C0.svg?&style=flat-square&logo=octave&logoColor=white" />
 </p>
 
-###### Frameworks/Libraries
+###### Frameworks
 
 <p>
-  <img alt="Angular" src="https://img.shields.io/badge/AngularJs-%23c4140e?style=flat-square&logo=%230F0F11&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt = "Spring Boot" src = "https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-%0F0F11?style=flat-square&logo=angular&logoColor=white" />
+  <img alt ="Spring Boot" src = "https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 </p>
 
 ###### Database
 <p>
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Oracle 11g" src="https://img.shields.io/badge/Oracle%2011g-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white" />
-  <img alt = "Microsoft SQL Server" src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=black" />
+  <img alt ="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt ="Microsoft SQL Server" src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img alt ="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 
-###### Tools / Miscellaneous
+###### Tools
 
 <p>
   <img alt = "Git" src = "https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -67,6 +65,17 @@ Here are some ideas to get you started:
   <img alt="Visual Studio" src = "https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3D1184.svg?&style=flat-square&logo=Android-studio&logoColor=white" />
+</p>
+
+###### Miscellaneous
+
+<p>
+  <img alt = "Docker" src = "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt = "RabbitMQ" src = "https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img alt = "Microservices" src = "https://img.shields.io/badge/Microservices-CC2927?style=flat-square&logo=microservices&logoColor=white" />
+  <img alt="Clean Architecture" src = "https://img.shields.io/badge/Clean%20Architecture-2496ED?style=flat-square&logo=cleanarchitecture&logoColor=white" />
+  <img alt="Object Oriented Concepts" src = "https://img.shields.io/badge/Object%20Oriented%20Concepts-FF6600?style=flat-square&logo=cleanarchitecture&logoColor=white" />
+  <img alt="Unit Test" src = "https://img.shields.io/badge/Unit%20Test-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
 </p>
 
 
