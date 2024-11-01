@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Ishita Sur Apan, currently working as a Software Engineer at Streams Tech Ltd.
 
 [![Gmail](https://img.shields.io/badge/Send%20Mail-EA4335?style=flat&logo=gmail&labelColor=white)](mailto:ishitasurapan@gmail.com)
-[![LinkedIn Connect](https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishita-sur-apan-0b2246147/)
+[![LinkedIn Connect](https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishita-sur-apan/)
 
 <!--
 **IshitaApan/IshitaApan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 </p>
 
 ### Stuffs About Me
-- 🔭 <b>Currently working on:</b> Angular, ASP.NET Core
+- 🔭 <b>Currently working as a full stack web developer with ASP.NET Core, Angular and PostGreSQL</b>
+- 🤔 <b>Interested in Machine Learning, Natural Language Processing, Multimodal Learning</b>
 
 ---
 
