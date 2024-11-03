@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ### Stuffs About Me
 - 🔭 <b>Currently working as a full stack web developer with ASP.NET Core, Angular and PostGreSQL</b>
-- 🤔 <b>Interested in Machine Learning, Natural Language Processing, Multimodal Learning</b>
-
+- 🤔 <b>Research Interest: Software Engineering, Natural Language Processing and Multimodal Learning</b>
+- 😄 <b>Hobby: Reading Books, Story Writing, Travelling</b>
 ---
 
 <h3> :hammer_and_wrench: &nbsp;Tech Stack</h3>
