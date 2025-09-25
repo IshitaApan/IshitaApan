@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ishita Sur Apan, currently working as a Research Assistant at Center for Computational & Data Sciences, Independent University, Bangladesh.
+### Hello there 👋 I am Ishita Sur Apan!
 
 [![Gmail](https://img.shields.io/badge/Send%20Mail-EA4335?style=flat&logo=gmail&labelColor=white)](mailto:ishitasurapan@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishita-sur-apan/)
@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 </p>
 
 ### Stuffs About Me
-- 🔭 <b>Currently working as a full stack web developer with ASP.NET Core, Angular and PostGreSQL</b>
-- 🤔 <b>Research Interest: Software Engineering, Natural Language Processing and Multimodal Learning</b>
+- 🔭 <b>Currently working as a research assistant at [CCDS](https://ccds.ai/), IUB </b>
+- 💻 <b>Former software engineer at [streamstech](https://streamstech.com/) and [ASA International](https://www.asa-international.com/) </b>
+- 🎓 <b>Education: B.Sc. in Software Engineering, [IIT, University of Dhaka](https://iit.du.ac.bd/) </b>
+- 🤔 <b>Research Interest: Software Engineering, Security, Natural Language Processing and Multimodal Learning</b>
 - 😄 <b>Hobby: Reading Books, Story Writing, Travelling</b>
 ---
 
