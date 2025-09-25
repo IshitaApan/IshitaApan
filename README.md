@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=IshitaApan&count_private=true&show_icons=true&theme=gruvbox&show=reviews,prs_merged" width="55%"/>
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=IshitaApan&count_private=true&show_icons=true&theme=gruvbox" width="55%"/>
 </p>
 
 ### Stuffs About Me
