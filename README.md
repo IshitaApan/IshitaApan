@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Stuffs About Me
 - 🔭 <b>Currently working as a research assistant at [CCDS](https://ccds.ai/), IUB </b>
-- 💻 <b>Former software engineer at [streamstech](https://streamstech.com/) and [ASA International](https://www.asa-international.com/) </b>
+- 💻 <b>Former software engineer at [Streams Tech](https://streamstech.com/) and [ASA International](https://www.asa-international.com/) </b>
 - 🎓 <b>Education: B.Sc. in Software Engineering, [IIT, University of Dhaka](https://iit.du.ac.bd/) </b>
 - 🤔 <b>Research Interest: Software Engineering, Security, Natural Language Processing and Multimodal Learning</b>
 - 😄 <b>Hobby: Reading Books, Story Writing, Travelling</b>
