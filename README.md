@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ishita Sur Apan, currently working as a Software Engineer at Streams Tech Ltd.
+### Hi there 👋 I am Ishita Sur Apan, currently working as a Research Assistant at Center for Computational & Data Sciences, Independent University, Bangladesh.
 
 [![Gmail](https://img.shields.io/badge/Send%20Mail-EA4335?style=flat&logo=gmail&labelColor=white)](mailto:ishitasurapan@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ishita-sur-apan/)
